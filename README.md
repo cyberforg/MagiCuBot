@@ -1,0 +1,2 @@
+# MagiCuBot
+An amateur project
